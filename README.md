@@ -6,7 +6,9 @@ title: Historisk samling
 Her finder du min samling af offentliggørelser om historie.
 
 
-Indtil videre finder du kun denne, tomme oversigt - mere er på vej :-)
+Indtil videre finder du kun slides fra mit [foredrag i Blistrup Kirke](Hesselbjerg200/slides.html).
+
+Mere er på vej :-)
 
 
 Præsentationen er lavet med [reveal.js](https://revealjs.com/), et program der kan live slides direkte tilgængelige i en browser (ikke nogen PDF eller DOCX).
