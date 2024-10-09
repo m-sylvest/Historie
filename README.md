@@ -1,17 +1,15 @@
 ---
 author: Mikael Sylvest
-title: Oversigt over mine historiske ting
-date: Oct. 9, 2024
+title: Historisk samling
+date: 9. oktober 2024
 ---
 
-# Historie
-
-Her finder du mine offentliggørelser om historie.
+Her finder du min samling af offentliggørelser om historie.
 
 
-Indtil videre finder du kun denne, tommer oversigt - mere er på vej :-)
+Indtil videre finder du kun denne, tomme oversigt - mere er på vej :-)
 
 
-Præsentationen er lavet med [reveal.js](https://revealjs.com/), et program der kan live slides direkte tilgængelige på Internet (ikke nogen PDF).
-Være opmærksom på at en reveal.js-præsentation kan være mange sunder om at loade.
+Præsentationen er lavet med [reveal.js](https://revealjs.com/), et program der kan live slides direkte tilgængelige i en browser (ikke nogen PDF eller DOCX).
+Vær opmærksom på at en reveal.js-præsentation kan være mange sekunder om at loade.
 
