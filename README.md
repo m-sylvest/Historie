@@ -6,7 +6,8 @@ title: Historisk samling
 Her finder du min samling af offentliggørelser om historie.
 
 
-Indtil videre finder du kun slides fra mit [foredrag i Blistrup Kirke](Hesselbjerg200/slides.html).
+Indtil videre finder du kun slides fra mit [foredrag i Blistrup Kirke, okt. 2024](Hesselbjerg200/slides.html)
+og på [Søstjernen, april 2025](Raageleje300/slides.html).
 
 Mere er på vej :-)
 
